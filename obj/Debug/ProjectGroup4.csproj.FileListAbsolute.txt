@@ -8,3 +8,13 @@ C:\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.GenerateResource.cache
 C:\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.CoreCompileInputs.cache
 C:\ProjectGroup4\obj\Debug\ProjectGroup4.exe
 C:\ProjectGroup4\obj\Debug\ProjectGroup4.pdb
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\bin\Debug\ProjectGroup4.exe.config
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\bin\Debug\ProjectGroup4.exe
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\bin\Debug\ProjectGroup4.pdb
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.csprojAssemblyReference.cache
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.Form1.resources
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.Properties.Resources.resources
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.GenerateResource.cache
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.CoreCompileInputs.cache
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.exe
+D:\FPT Semester 5 Spring 2021\Tai Lieu PRN\ProjectGroup4\obj\Debug\ProjectGroup4.pdb
