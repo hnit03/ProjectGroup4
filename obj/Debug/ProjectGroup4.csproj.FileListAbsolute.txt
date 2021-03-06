@@ -1,0 +1,10 @@
+C:\ProjectGroup4\bin\Debug\ProjectGroup4.exe.config
+C:\ProjectGroup4\bin\Debug\ProjectGroup4.exe
+C:\ProjectGroup4\bin\Debug\ProjectGroup4.pdb
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.csprojAssemblyReference.cache
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.Form1.resources
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.Properties.Resources.resources
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.GenerateResource.cache
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.csproj.CoreCompileInputs.cache
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.exe
+C:\ProjectGroup4\obj\Debug\ProjectGroup4.pdb
