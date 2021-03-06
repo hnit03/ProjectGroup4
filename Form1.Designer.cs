@@ -87,10 +87,10 @@ namespace ProjectGroup4
             "b",
             "c",
             "d"});
-            this.comboBox1.Location = new System.Drawing.Point(82, 13);
+            this.comboBox1.Location = new System.Drawing.Point(71, 13);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(115, 21);
+            this.comboBox1.Size = new System.Drawing.Size(126, 21);
             this.comboBox1.TabIndex = 2;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
