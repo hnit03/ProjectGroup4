@@ -136,6 +136,7 @@ namespace ProjectGroup4
             this.dgwKetQua.Location = new System.Drawing.Point(11, 11);
             this.dgwKetQua.Margin = new System.Windows.Forms.Padding(2);
             this.dgwKetQua.Name = "dgwKetQua";
+            this.dgwKetQua.ReadOnly = true;
             this.dgwKetQua.RowHeadersWidth = 30;
             this.dgwKetQua.RowTemplate.Height = 28;
             this.dgwKetQua.Size = new System.Drawing.Size(322, 216);
@@ -175,37 +176,45 @@ namespace ProjectGroup4
             // 
             // txtCourseCode
             // 
+            this.txtCourseCode.BackColor = System.Drawing.SystemColors.Window;
             this.txtCourseCode.Location = new System.Drawing.Point(85, 148);
             this.txtCourseCode.Margin = new System.Windows.Forms.Padding(2);
             this.txtCourseCode.Multiline = true;
             this.txtCourseCode.Name = "txtCourseCode";
+            this.txtCourseCode.ReadOnly = true;
             this.txtCourseCode.Size = new System.Drawing.Size(224, 23);
             this.txtCourseCode.TabIndex = 9;
             // 
             // txtSex
             // 
+            this.txtSex.BackColor = System.Drawing.SystemColors.Window;
             this.txtSex.Location = new System.Drawing.Point(85, 114);
             this.txtSex.Margin = new System.Windows.Forms.Padding(2);
             this.txtSex.Multiline = true;
             this.txtSex.Name = "txtSex";
+            this.txtSex.ReadOnly = true;
             this.txtSex.Size = new System.Drawing.Size(225, 23);
             this.txtSex.TabIndex = 8;
             // 
             // txtDOB
             // 
+            this.txtDOB.BackColor = System.Drawing.SystemColors.Window;
             this.txtDOB.Location = new System.Drawing.Point(85, 80);
             this.txtDOB.Margin = new System.Windows.Forms.Padding(2);
             this.txtDOB.Multiline = true;
             this.txtDOB.Name = "txtDOB";
+            this.txtDOB.ReadOnly = true;
             this.txtDOB.Size = new System.Drawing.Size(225, 23);
             this.txtDOB.TabIndex = 7;
             // 
             // txtName
             // 
+            this.txtName.BackColor = System.Drawing.SystemColors.Window;
             this.txtName.Location = new System.Drawing.Point(85, 48);
             this.txtName.Margin = new System.Windows.Forms.Padding(2);
             this.txtName.Multiline = true;
             this.txtName.Name = "txtName";
+            this.txtName.ReadOnly = true;
             this.txtName.Size = new System.Drawing.Size(225, 23);
             this.txtName.TabIndex = 6;
             // 
@@ -217,6 +226,7 @@ namespace ProjectGroup4
             this.txtSurName.Margin = new System.Windows.Forms.Padding(1);
             this.txtSurName.Multiline = true;
             this.txtSurName.Name = "txtSurName";
+            this.txtSurName.ReadOnly = true;
             this.txtSurName.Size = new System.Drawing.Size(225, 22);
             this.txtSurName.TabIndex = 5;
             // 
